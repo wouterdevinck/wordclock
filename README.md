@@ -1,2 +1,2 @@
-wordclock
-=========
+Word Clock
+==========
