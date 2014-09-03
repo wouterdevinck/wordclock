@@ -1,0 +1,2 @@
+The font used is Droid Sans Mono, it is available on Google Fonts under an Apache 2.0 license.
+https://www.google.com/fonts/specimen/Droid+Sans+Mono
