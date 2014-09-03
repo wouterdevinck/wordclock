@@ -1,5 +1,7 @@
-Word Clock
-==========
+Wordclock
+=========
+
+Instructables: http://www.instructables.com/id/wordclock/
 
 ![alt tag](https://raw.githubusercontent.com/wouterdevinck/wordclock/master/faceplate/face_21jul_reference_image.png)
 
